@@ -18,7 +18,7 @@ public class Menu_Principal {
                     parOImpar.ejecutar();
                     break;
                 case 3:
-                    TablaMultiplicar();
+                    TablaMultiplicar.ejecutar();
                     break;
                 case 4: 
                     contadorVocales();
