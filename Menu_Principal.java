@@ -15,7 +15,7 @@ public class Menu_Principal {
                     calculadora.ejecutar();
                     break;
                 case 2:
-                    parOImpar();
+                    parOImpar.ejecutar();
                     break;
                 case 3:
                     TablaMultiplicar();
