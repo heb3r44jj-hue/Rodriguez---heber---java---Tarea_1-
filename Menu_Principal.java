@@ -21,13 +21,13 @@ public class Menu_Principal {
                     TablaMultiplicar.ejecutar();
                     break;
                 case 4: 
-                    contadorVocales();
+                    contador_Vocales.ejecutar();
                     break;
                 case 5: 
-                    promedioNotas();
+                    promedioNotas.ejecutar();
                     break;
                 case 6:
-                    ejercicioEstudiantes();
+                    ejercicioEstudiantes.ejecutar();
                     break;
                 case 7:
                     cuentaBancaria();
