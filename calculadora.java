@@ -1,7 +1,11 @@
 import java.util.Scanner;
 
+/**
+ * Esta clase encapsula la logica de opecaiones artemticas basicas, como suma, resta,multiplicacion y division.
+ */
 
 public class calculadora {
+
 
     public static void main(String[] args) {
         ejecutar();
