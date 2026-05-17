@@ -39,7 +39,7 @@ public class Menu_Principal {
                     matriz.ejecutar();
                     break;
                 case 10:
-                    sistema_Inventario();
+                    sistema_Inventario.ejecutar();
                     break;
                 case 11:
                     System.out.println("salir del programa");
