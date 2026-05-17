@@ -56,18 +56,21 @@ public class Menu_Principal {
         sc.close();     
     }
     static void mostrarMenu(){
+        System.out.println("\n================================");
+        System.out.println("          Menu principal         ");
+        System.out.println("================================");
         System.out.println("Menu Principal");
-        System.out.println("1. Calculadora");
-        System.out.println("2. Par o impar");
-        System.out.println("3 Tabla de multiplicar");
-        System.out.println("4. Contador de vocales");
-        System.out.println("5. Promedio de notas");
-        System.out.println("6. Ejercicio de estudiantes");
-        System.out.println("7. Cuenta bancaria");
-        System.out.println("8. Herencia de vehículos");
-        System.out.println("9. Matriz");
-        System.out.println("10. Sistema de inventario");
-        System.out.println("11. Salir");
+        System.out.println("  [1] Calculadora");
+        System.out.println("  [2] Par o impar");
+        System.out.println("  [3] Tabla de multiplicar");
+        System.out.println("  [4] Contador de vocales");
+        System.out.println("  [5] Promedio de notas");
+        System.out.println("  [6] Ejercicio de estudiantes");
+        System.out.println("  [7] Cuenta bancaria");
+        System.out.println("  [8] Herencia de vehículos");
+        System.out.println("  [9] Matriz");
+        System.out.println("  [10] Sistema de inventario");
+        System.out.println("  [11] Salir");
 
     }
 

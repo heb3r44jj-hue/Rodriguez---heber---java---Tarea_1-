@@ -26,13 +26,13 @@ public class calculadora {
         } else if (operacion.equals ("*")){
             System.out.println("=" + (num1 * num2));   
         } else if (operacion.equals("/")){
-            if (num2 != 0){
+            if (num2 == 0){
                 System.out.println("no se puede dividir entre cero");
             } else {
                 System.out.println("=" + (num1 / num2));
             }
         }else{
-            System.out.println("no se puede deja de forzar");
+            System.out.println("operacion no valida");
         }
     }
 } 
