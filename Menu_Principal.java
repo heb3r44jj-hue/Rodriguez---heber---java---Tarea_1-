@@ -33,10 +33,10 @@ public class Menu_Principal {
                     cuentaBancaria.ejecutar();
                     break;
                 case 8: 
-                    herencia_Vehiculos();
+                    herencia_Vehiculos.ejecutar();
                     break;
                 case 9:
-                    matriz();
+                    matriz.ejecutar();
                     break;
                 case 10:
                     sistema_Inventario();
