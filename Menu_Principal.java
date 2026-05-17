@@ -30,7 +30,7 @@ public class Menu_Principal {
                     ejercicioEstudiantes.ejecutar();
                     break;
                 case 7:
-                    cuentaBancaria();
+                    cuentaBancaria.ejecutar();
                     break;
                 case 8: 
                     herencia_Vehiculos();
