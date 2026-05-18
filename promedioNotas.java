@@ -1,3 +1,7 @@
+
+/**
+ * Esta clase implementa la logica para calcular el promedio de notas.
+ */
 public class promedioNotas {
     public static void ejecutar(){
         System.out.println("Promedio de notas");

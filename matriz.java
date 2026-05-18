@@ -1,3 +1,7 @@
+
+/**
+ * Esta clase implementa la logica para trabajar con matrices.
+ */
 public class matriz {
     public static void ejecutar(){
         System.out.println("Matriz de 3x3");

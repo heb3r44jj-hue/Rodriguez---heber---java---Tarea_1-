@@ -1,3 +1,7 @@
+
+/**
+ * Esta clase implementa el sistema de inventario para gestionar productos.
+ */
 public class sistema_Inventario {
     public static void ejecutar(){
         System.out.println("Sistema de Inventario");
@@ -36,6 +40,8 @@ public class sistema_Inventario {
         } while (opcion != 3);
     }
 }
+
+
 
 class Producto {
     String nombre;

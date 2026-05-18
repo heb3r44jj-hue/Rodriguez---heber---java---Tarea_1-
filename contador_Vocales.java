@@ -1,3 +1,4 @@
+// Este programa cuenta el numero de vocales en una palabra o oracion ingresada por el usuario
 public class contador_Vocales {
     public static void ejecutar(){
         System.out.println("contador de vocales");

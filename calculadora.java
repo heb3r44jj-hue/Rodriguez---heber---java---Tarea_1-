@@ -6,11 +6,13 @@ import java.util.Scanner;
 
 public class calculadora {
 
-
+// scanner para leer la entrada del usuario
     public static void main(String[] args) {
         ejecutar();
     }
-   
+   /**
+    * Este metodo ejecuta la logica de la calculadora, solicitando al usuario dos numeros y una operacion, y luego realiza la operacion correspondiente.
+    */
     static Scanner sc = new Scanner(System.in);
 
     static void ejecutar () {

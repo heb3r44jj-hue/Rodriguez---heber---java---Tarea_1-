@@ -1,6 +1,10 @@
+
+/**
+ * Esta clase implementa la logica para gestionar una cuenta bancaria.
+ */
 public class cuentaBancaria {
     public static void ejecutar(){
-        System.out.println("cuanta bancaria");
+        System.out.println("Cuenta bancaria");
         System.out.println("Titular:  ");
         String titular = Menu_Principal.sc.nextLine();
         System.out.print("Saldo inicial: ");

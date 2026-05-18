@@ -1,3 +1,4 @@
+// Este programa muestra la tabla de multiplicar de un numero ingresado por el usuario
 public class TablaMultiplicar {
     public static void ejecutar(){
         System.out.println("Tabla de multiplicar");

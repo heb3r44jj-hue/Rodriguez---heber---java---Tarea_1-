@@ -1,3 +1,7 @@
+
+/**
+ * Esta clase implementa la logica para gestionar estudiantes, solicitando al usuario su nombre, matricula y nota, y luego mostrando su informacion y si esta aprobado o reprobado.
+ */
 public class ejercicioEstudiantes {
     public static void ejecutar(){
         System.out.println("clase estudiantes");

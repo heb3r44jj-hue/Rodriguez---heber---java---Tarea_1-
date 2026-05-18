@@ -1,3 +1,5 @@
+// Este programa determina si un numero es par o impar 
+
 public class parOImpar {
     public static void ejecutar(){
         System.out.println("par o impar");
